@@ -1,7 +1,11 @@
 # Spotify Popularity Prediction
 
-This project explores Spotify audio features and uses machine learning
-models to predict track popularity.
+This project analyzes Spotify track audio features and applies
+machine learning models to predict song popularity. The project
+includes exploratory data analysis, feature importance analysis,
+correlation heatmaps, and Random Forest regression models.
+
+(Built with Python, pandas, matplotlib, seaborn, and scikit-learn.)
 
 ## Dataset
 
