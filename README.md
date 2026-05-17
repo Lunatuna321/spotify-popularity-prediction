@@ -61,3 +61,9 @@ to predict track popularity.
 - seaborn
 - scikit-learn
 - Jupyter Notebook
+
+## Future Improvements
+
+- Include additional metadata such as artist popularity and release year
+- Experiment with advanced machine learning models
+- Build an interactive dashboard for visualization
