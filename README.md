@@ -74,5 +74,5 @@ larger role in determining streaming success.
 ## Future Improvements
 
 - Include additional metadata such as artist popularity and release year
+- Build an interactive dashboard using Tableau for visualization
 - Experiment with advanced machine learning models
-- Build an interactive dashboard for visualization
