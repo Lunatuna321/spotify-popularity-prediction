@@ -53,6 +53,15 @@ to predict track popularity.
 - Popularity showed weak correlations with individual audio features
 - Song popularity is influenced by many external factors beyond audio features alone
 
+## Business Insights
+
+The analysis suggests that audio features alone are not strong
+predictors of Spotify popularity. While features such as loudness,
+energy, and danceability contributed to prediction performance,
+external factors such as artist reputation, social media exposure,
+playlist promotion, and recommendation algorithms likely play a
+larger role in determining streaming success.
+
 ## Tools Used
 
 - Python
